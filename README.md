@@ -24,7 +24,7 @@ To get started with the **SollydZ Education Hub**, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/yourusername/SollydZ-Education-Hub.git
+   git clone https://github.com/huzaifameer/SollydZ-Education-Hub.git
    ```
 
 2. Open the project in your preferred Java development environment (e.g., IntelliJ IDEA, Eclipse).
