@@ -4,7 +4,7 @@ Welcome to the **SollydZ Education Hub** repository! This project was created us
 
 ## Project Overview 📖
 
-The **SollydZ Education Hub** is an educational platform designed to manage a educational institute.
+The **SollydZ Education Hub** is an educational platform designed to manage an educational institute.
 
 ## Technologies Used 🛠️
 
@@ -37,6 +37,6 @@ This project was made possible thanks to the guidance and inspiration provided b
 
 ## Contact Us 📬
 
-If you have any questions or suggestions, feel free to reach out to us at [contact@sollydzeducationhub.com](mailto:huzaifaameer00@gmail.com).
+If you have any questions or suggestions, feel free to reach out to us at [email](mailto:huzaifaameer00@gmail.com).
 
 Happy learning! 📚✨
